@@ -8,8 +8,8 @@ My first react native app - simple Calculator with both horizontal and vertical 
 ## Screenshots 
 
 Horizontal view:
-![Screen1](./hor.png)
+![](./hor.png)
 
 
 Vertical:
-![Screen1](./vert.png)
+![](./vert.png =700x400)
