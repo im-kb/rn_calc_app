@@ -13,4 +13,4 @@ Horizontal view:
 
 Vertical:
 
-![](./vert.png =700x400)
+![](./vert.png)
